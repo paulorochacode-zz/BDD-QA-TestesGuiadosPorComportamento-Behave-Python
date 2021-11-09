@@ -7,5 +7,5 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/71628988/141002190-df4d31b9-29f4-4268-84e1-4415aa0c5391.PNG" width="700px" />
 </div>
-<p align="center">>Cenário cujo a ferramenta apresenta ao encontrar um bug.</p>
+<p align="center">Cenário cujo a ferramenta apresenta ao encontrar um bug.</p>
 

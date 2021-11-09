@@ -1,4 +1,4 @@
-# <h1>BDD-QA-TestesGuiadosPorComportamento-Behave-Python</h1>
+# <h1>BDD QA Testes Guiados Por Comportamento Behave Python</h1>
 <h2>Aqui criei/simulei testes BDD com Behave+Python em português em uma classe que simula funções de uma calculadora.</h2>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/71628988/141001812-16ff1d2e-d5c2-4095-b60e-8691ccdcd4f3.PNG" width="700px" />
